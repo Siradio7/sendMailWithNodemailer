@@ -50,6 +50,6 @@ const sendMailTest = async (to) => {
     })
 }
 
-const info = sendMailTest("mamadousiradioudiallo14@gmail.com")
+const info = sendMailTest("exemple@gmail.com")
 
 console.log(info)
