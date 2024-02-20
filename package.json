@@ -1,0 +1,17 @@
+{
+  "name": "sendmailwithnodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mamadou Siradiou Diallo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^133.0.0",
+    "nodemailer": "^6.9.9"
+  }
+}
